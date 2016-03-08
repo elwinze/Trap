@@ -40,10 +40,10 @@
         </statement>
         <value name="IF1">
           <block type="logic_compare" id="8" inline="true">
-            <field name="OP">GT</field>
+            <field name="OP">LT</field>
             <value name="A">
               <block type="sensor_object" id="9">
-                <field name="OBJECT">LEFTFRONT</field>
+                <field name="OBJECT">RIGHTFRONT</field>
               </block>
             </value>
             <value name="B">
